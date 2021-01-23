@@ -168,9 +168,9 @@
 		E8698467258D31B5007FDD16 /* EssentialFeedTests */ = {
 			isa = PBXGroup;
 			children = (
+				E869846A258D31B5007FDD16 /* Info.plist */,
 				E85885BB25912CA600B1C84A /* Helpers */,
 				E80F10AC25BC867A009E649D /* Feed Cache */,
-				E869846A258D31B5007FDD16 /* Info.plist */,
 				E85885A2259021AC00B1C84A /* Feed API */,
 			);
 			path = EssentialFeedTests;

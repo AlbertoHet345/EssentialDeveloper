@@ -202,8 +202,8 @@
 				E869845D258D31B5007FDD16 /* EssentialFeed.h */,
 				E869845E258D31B5007FDD16 /* Info.plist */,
 				E80F10BB25BCA97F009E649D /* Feed Cache */,
-				E8588593258FDC4300B1C84A /* Feed API */,
 				E869847E258D3392007FDD16 /* Feed Feature */,
+				E8588593258FDC4300B1C84A /* Feed API */,
 			);
 			path = EssentialFeed;
 			sourceTree = "<group>";
